@@ -1,0 +1,30 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "panel",
+  "name": "Organisations",
+  "id": "timomyl-organisations-panel",
+  "info": {
+    "description": "Organisations Panel for Grafana",
+    "author": {
+      "name": "Timo Myllymaki"
+    },
+    "keywords": [],
+    "logos": {
+      "small": "img/organisations-icon.svg",
+      "large": "img/organisations-icon.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/grafana/grafana-starter-panel"
+      }
+    ],
+    "screenshots": [],
+    "version": "1.4.0",
+    "updated": "2022-08-24"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=7.0.0",
+    "plugins": []
+  }
+}
