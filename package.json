@@ -1,6 +1,6 @@
 {
   "name": "grafana-organisations-panel",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "Organisations Panel for Grafana",
   "scripts": {
     "build": "grafana-toolkit plugin:build",
