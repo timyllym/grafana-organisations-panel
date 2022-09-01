@@ -8,7 +8,7 @@
     "author": {
       "name": "Timo Myllymaki"
     },
-    "keywords": [],
+    "keywords": ["organization"],
     "logos": {
       "small": "img/organisations-icon.svg",
       "large": "img/organisations-icon.svg"
@@ -19,7 +19,12 @@
         "url": "https://github.com/timyllym/grafana-organisations-panel"
       }
     ],
-    "screenshots": [],
+    "screenshots": [
+      {
+        "name": "Showcase",
+        "path": "img/organisations-screenshot.png"
+      }
+    ],
     "version": "1.4.0",
     "updated": "2022-08-24"
   },
